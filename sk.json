@@ -1,1 +1,64 @@
-{"":""}
+{
+    "default":
+    {
+        "api": "api.kktv9.com",
+        "api2": "www.kktv9.com",
+        "socket": "into1.kktv9.com",
+        "pull": "pull.kktv9.com",
+        "pay": "api8.kktv9.com",
+        "payment": "skpay.kktv9.com",
+        "image": "kkimg.kktv9.com",
+        "resource":
+        [
+            "rescdn.kktv9.com",
+            "hc-res-vod.kktv.com"
+        ],
+        "h5":
+        [
+            "h5.kktv9.com",
+            "web.kktv9.com"
+        ],
+        "nodes":
+        [
+            "room15000.kktv9.com",
+            "room16000.kktv9.com",
+            "room17000.kktv9.com",
+            "room18000.kktv9.com",
+            "room19000.kktv9.com"
+        ],
+        "statistics": "md.kktv9.com",
+        "portal": "h5manage.kktv9.com",
+        "appconfig": "apk.kktv9.com"
+    },
+    "config":
+    {
+        "api": "api.sktv.live",
+        "api2": "www.sktv.live",
+        "socket": "into1.sktv.live",
+        "pull": "pull.sktv.live",
+        "pay": "api8.sktv.live",
+        "payment": "skpay.sktv.live",
+        "image": "kkimg.sktv.live",
+        "resource":
+        [
+            "rescdn.sktv.live",
+            "hc-res-vod.sktv.live"
+        ],
+        "h5":
+        [
+            "h5.sktv.live",
+            "web.sktv.live"
+        ],
+        "nodes":
+        [
+            "room15000.sktv.live",
+            "room16000.sktv.live",
+            "room17000.sktv.live",
+            "room18000.sktv.live",
+            "room19000.sktv.live"
+        ],
+        "statistics": "md.sktv.live",
+        "portal": "h5manage.sktv.live",
+        "appconfig": "apk.sktv.live"
+    }
+}
